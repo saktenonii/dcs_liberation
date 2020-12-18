@@ -406,6 +406,7 @@ PRICES = {
     Artillery.SPH_M109_Paladin: 25,
 
     Artillery.SPH_2S9_Nona: 12,
+    Artillery.SpGH_Dana: 17,
     Artillery.SPH_2S1_Gvozdika: 18,
     Artillery.SPH_2S3_Akatsia: 24,
     Artillery.SPH_2S19_Msta: 30,
@@ -836,6 +837,7 @@ UNIT_BY_TASK = {
 
         Artillery.MLRS_M270,
         Artillery.SPH_M109_Paladin,
+        Artillery.SpGH_Dana,
         Artillery.SPH_2S9_Nona,
         Artillery.SPH_2S1_Gvozdika,
         Artillery.SPH_2S3_Akatsia,
