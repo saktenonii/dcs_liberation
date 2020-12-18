@@ -405,13 +405,14 @@ PRICES = {
     Artillery.MLRS_M270: 55,
     Artillery.SPH_M109_Paladin: 25,
 
+    Artillery.SpGH_Dana: 17,
     Artillery.SPH_2S9_Nona: 12,
     Artillery.SPH_2S1_Gvozdika: 18,
     Artillery.SPH_2S3_Akatsia: 24,
     Artillery.SPH_2S19_Msta: 30,
     Artillery.MLRS_BM_21_Grad: 15,
     Artillery.MLRS_9K57_Uragan_BM_27: 50,
-    Artillery.MLRS_9A52_Smerch: 40,
+    Artillery.MLRS_9A52_Smerch: 40,   
 
     Unarmed.Transport_UAZ_469: 3,
     Unarmed.Transport_Ural_375: 3,
@@ -834,9 +835,11 @@ UNIT_BY_TASK = {
         Armor.Daimler_Armoured_Car,
         Armor.LT_Mk_VII_Tetrarch,
 
+      
         Artillery.MLRS_M270,
         Artillery.SPH_M109_Paladin,
         Artillery.SPH_2S9_Nona,
+        Artillery.SpGH_Dana,
         Artillery.SPH_2S1_Gvozdika,
         Artillery.SPH_2S3_Akatsia,
         Artillery.SPH_2S19_Msta,
